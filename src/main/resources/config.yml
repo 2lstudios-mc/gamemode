@@ -1,6 +1,6 @@
 messages:
-  from-command: "&eHello world from Command."
-  from-listener: "&aHello world from Listener."
-  from-task: "&dHello world from Task."
-
-task-repeat-every: 3
+  changed: "&6Changed gamemode to&c %gamemode%"
+  no-permission: "&cNo permission to switch gamemode to &4%gamemode%"
+  usage: "&cUsage: /gamemode <gamemode>"
+  unknown: "&cUnknown gamemode: &4%gamemode%"
+  console: "&cThis command cannot be used from the console"
